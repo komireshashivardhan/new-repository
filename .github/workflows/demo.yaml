@@ -17,4 +17,4 @@ jobs:
 
 
       - name: Run hello.py
-        run: poetry run python src/github_actions_demo/hello.py
+        run: python hello.py
